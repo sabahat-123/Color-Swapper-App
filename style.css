@@ -1,3 +1,6 @@
+body{
+    background-color: aqua;
+}
 #bigBox{
     width: 50vh;
     height: 50vh;
@@ -19,4 +22,5 @@
     color: #fff;
     margin-left: 50vh;
     border-radius: 5px;
+    text-transform: uppercase;
 }

@@ -1,0 +1,22 @@
+#bigBox{
+    width: 50vh;
+    height: 50vh;
+    text-align: center;
+    margin-left: 50vh;
+}
+#smallBox{
+
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-left: 100vh;
+
+}
+#btn{
+    width:auto;
+    height: 40px;
+    background-color: black;
+    color: #fff;
+    margin-left: 50vh;
+    border-radius: 5px;
+}
